@@ -1,1 +1,14 @@
 /* file for your css */
+
+.btn-right {
+	float: right;
+
+}
+
+.btn-left {
+	float: left;
+}
+
+.well-lg {
+	padding-bottom: 38px;
+}
